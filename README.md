@@ -367,12 +367,12 @@ plt.show()
 
 
     
-![png](output_24_0.png)
+![png](img/output_24_0.png)
     
 
 
 
     
-![png](output_24_1.png)
+![png](img/output_24_1.png)
     
 
